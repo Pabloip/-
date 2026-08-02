@@ -1,4 +1,4 @@
-万物皆可拼贴生成器
+## 万物皆可拼贴生成器
 <img width="2231" height="1591" alt="iScreen Shoter - Google Chrome - 260802212124" src="https://github.com/user-attachments/assets/a42178c3-3c16-44f8-912c-1f0f1e403b25" />
 这是一个我为本地创作场景慢慢打磨出来的拼贴工具。
 它适合把照片、街头素材、透明 PNG 元素重新组合成带一点杂志感、海报感和手工拼贴气息的画面。
