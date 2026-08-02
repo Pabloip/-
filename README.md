@@ -1,11 +1,8 @@
-![Uploading iScreen Shoter - Google Chrome - 260802212124.jpg…]()
+<img width="2231" height="1591" alt="iScreen Shoter - Google Chrome - 260802212124" src="https://github.com/user-attachments/assets/a42178c3-3c16-44f8-912c-1f0f1e403b25" />
 万物皆可拼贴生成器
 
 这是一个我为本地创作场景慢慢打磨出来的拼贴工具。
 它适合把照片、街头素材、透明 PNG 元素重新组合成带一点杂志感、海报感和手工拼贴气息的画面。
-
-![拼贴系统预览]
-<img width="2086" height="1592" alt="image" src="https://github.com/user-attachments/assets/74a251b1-266a-4ede-af3d-fbab351ddf39" />
 
 ## 你可以拿它做什么
 
@@ -21,7 +18,7 @@
 如果你更喜欢边看边改，这会是最顺手的入口。
 上传图片之后，可以直接观察整体排版，再慢慢把画面调到自己想要的感觉。
 
-![网页拼贴工作台]<img width="2082" height="1589" alt="image" src="https://github.com/user-attachments/assets/d868dfed-2796-4970-ad59-d5aabbfe6e71" />
+<img width="2231" height="1593" alt="image" src="https://github.com/user-attachments/assets/469be639-7279-4d8f-b892-6e2592f66f6b" />
 
 
 ### 2. 拼贴效果示例
