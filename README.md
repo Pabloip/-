@@ -1,4 +1,5 @@
-<img width="2089" height="1589" alt="image" src="https://github.com/user-attachments/assets/31fb4fd1-6f6a-4881-8fc3-9857077ce25b" />万物皆可拼贴生成器
+![Uploading image.png…]()
+万物皆可拼贴生成器
 
 这是一个我为本地创作场景慢慢打磨出来的拼贴工具。
 它适合把照片、街头素材、透明 PNG 元素重新组合成带一点杂志感、海报感和手工拼贴气息的画面。
