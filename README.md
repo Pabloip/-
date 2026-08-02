@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+(![Uploading image.png…])
 万物皆可拼贴生成器
 
 这是一个我为本地创作场景慢慢打磨出来的拼贴工具。
