@@ -61,23 +61,10 @@
 ## 快速启动
 
 日常离线使用：
-
+<img width="806" height="478" alt="image" src="https://github.com/user-attachments/assets/331317ad-c6ce-4e06-bec5-9df901102b9a" />
 ```bash
 open launchers/mac/启动拼贴系统.command
 ```
-
-Windows 双击使用：
-
-```bat
-启动拼贴系统.bat
-```
-
-实际双击入口：
-
-- `启动拼贴系统.bat`
-- `launchers/mac/启动拼贴系统.command`
-- `launchers/windows/启动拼贴系统.bat`
-- `tools/launch_collage_web.py`
 
 开发态网页模式：
 
