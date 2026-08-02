@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>拼贴风格生成器</title>
+    <link rel="icon" type="image/png" href="/static/mock-assets/favicon.png?v=20260802-02" />
+    <link rel="stylesheet" href="./editorial-desk-mock.css" />
+  </head>
+  <body>
+    <main class="workspace-app atelier-app" data-workspace-root>
+      <aside class="atelier-sheet" data-atelier-sheet>
+        <section class="atelier-sheet__intro">
+          <p class="atelier-sheet__eyebrow">COLLAGE ATELIER DESK</p>
+          <img
+            class="atelier-sheet__brand-mark"
+            src="./mock-assets/brand-logo.png"
+            alt="拼贴风格生成器图标"
+          />
+          <div class="atelier-sheet__title-stack">
+            <h1>拼贴风格生成器</h1>
+            <p class="atelier-sheet__display-title" aria-hidden="true">COLLAGE STYLE</p>
+          </div>
+        </section>
+
+        <section class="atelier-sheet__notes">
+          <p>1-6 张素材</p>
+          <p>框选 / 拖拽 / 生成 / 直接导出</p>
+          <p class="atelier-sheet__credit">开发者：港窄镜头日记</p>
+        </section>
+      </aside>
+
+      <section class="canvas-stage">
+        <div class="canvas-stage__topbar">
+          <p class="canvas-stage__caption">让生活的小事拼贴化</p>
+          <div class="canvas-stage__actions">
+            <button
+              type="button"
+              class="canvas-action canvas-action--delete"
+              data-delete-selection-action
+              hidden
+            >
+              删除拼贴
+            </button>
+            <button
+              type="button"
+              class="canvas-action canvas-action--export"
+              data-export-selection-action
+              data-export-download
+              hidden
+            >
+              导出拼贴
+            </button>
+            <button
+              type="button"
+              class="canvas-action canvas-action--import"
+              data-import-action
+            >
+              导入素材
+            </button>
+          </div>
+        </div>
+
+        <div
+          class="canvas-surface"
+          data-canvas-surface
+          data-object-dropzone
+          aria-label="拼贴风格生成器"
+        >
+          <article class="workspace-object workspace-object--sample">
+            <span class="workspace-object__sample-note">原图样本</span>
+          </article>
+          <article class="workspace-object workspace-object--sample">
+            <span class="workspace-object__sample-note">显影结果</span>
+          </article>
+          <article class="workspace-object workspace-object--sample">
+            <span class="workspace-object__sample-note">框选后继续操作</span>
+          </article>
+        </div>
+      </section>
+
+      <aside class="assistant-band" data-assistant-band>
+        <section class="assistant-band__header">
+          <p class="assistant-band__eyebrow">CURATED SUPPORT STRIP</p>
+        </section>
+
+        <section class="assistant-band__body" data-tool-context>
+          <div class="assistant-band__empty">
+            <p class="assistant-band__label">等待选择</p>
+          </div>
+          <button
+            type="button"
+            class="assistant-primary-action assistant-primary-action--button"
+            data-assistant-primary-action
+            data-render-selection
+            disabled
+          >
+            生成拼贴
+          </button>
+        </section>
+      </aside>
+    </main>
+    <script type="module" src="./editorial-desk-mock.js"></script>
+  </body>
+</html>
